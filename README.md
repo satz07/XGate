@@ -51,6 +51,8 @@ Follow the steps below to set up the project on your local machine:
    After the server starts, open your browser and navigate to:  
    `http://localhost:3000`
 
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/db37951b-dd09-44f4-a22e-f905b5de75f0">
+
 ## Configuration
 
 Before running the application, make sure you configure the `SmartAccount.tsx` file. Update the following variables:
