@@ -14,19 +14,12 @@ import { sleep } from '../src/sdk/common';
 
 dotenv.config();
 
-const clientId = "BJxW5OIB5ugNUBM491Dor4lrqh-YqWKKbeVvyzhY5k0hGFbZyTqb40SN9bcOrOKe-YRUNBg15wHdbBXR9SlCx6Q";
-const recipient = '0x8a2A6De412960Ab0BbE02789eeD746aAd392baa5';
-const erc20TokenAddress = '0xeDc8AD44C75FB093d1c515f6cB4Fa4a5e1448e63';
-const erc721TokenAddress = '0x341CDC5Cd4C1F2F5d04871e1144c560993CA6155';
+const clientId = "WEB3AuthID";
+const recipient = "Recipient of Token";
+const erc20TokenAddress = "TOKEN_ADDRESS";
+const erc721TokenAddress = "TOKEN_ADDRESS";
 const apiKey = "arka_public_key";
 const CHAIN_ID=51;
-
-// const clientId = "WEB3AuthID";
-// const recipient = "Recipient of Token";
-// const erc20TokenAddress = "TOKEN_ADDRESS";
-// const erc721TokenAddress = "TOKEN_ADDRESS";
-// const apiKey = "arka_public_key";
-// const CHAIN_ID=51;
 
 const chainConfig = {
   chainId: "0x33",
